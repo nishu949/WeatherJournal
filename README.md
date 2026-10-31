@@ -8,12 +8,12 @@ The application features a custom, responsive, editorial-style UI with color-cod
 
 ## 📸 Screenshots
 
-![Adding Records With Appropriate data](./public/images/AddingRecor.png)
-![Delete Records](./public/images/DeleteRecords.png)
-![Edit Or Update Records](./public/images/EditUpdateRecords.png)
-![Validation](./public/images/Validation.png)
-![Weather Records](./public/images/WeatherRecords.png)
-![Weather Summary](./public/images/WeatherSummary.png)
+![Adding Records With Appropriate data](./frontend/public/images/AddingRecor.png)
+![Delete Records](./frontend/public/images/DeleteRecords.png)
+![Edit Or Update Records](./frontend/public/images/EditUpdateRecords.png)
+![Validation](./frontend/public/images/Validation.png)
+![Weather Records](./frontend/public/images/WeatherRecords.png)
+![Weather Summary](./frontend/public/images/WeatherSummary.png)
 
 ---
 
