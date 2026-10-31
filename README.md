@@ -14,7 +14,7 @@ The application features a custom, responsive, editorial-style UI with color-cod
 ![Validation](./frontend/public/images/Validation.png)
 ![Weather Records](./frontend/public/images/WeatherRecords.png)
 ![Weather Summary](./frontend/public/images/WeatherSummary.png)
-
+![Data Model(JSON)](./frontend/public/images/ModelJson.png)
 ---
 
 ## ✨ Key Features
